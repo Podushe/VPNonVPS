@@ -1,5 +1,5 @@
-• Install OpenVPN App on iOS/Android from AppStore/Google Play store 
+Install OpenVPN App on iOS/Android from AppStore/Google Play store
 
-• Add file VPN_user_1.ovpn in the app (download ↘️:  https://shorts.one/bWUcT)
+• Add file VPN_user_1.ovpn in the app (download ↘️: https://shorts.one/hHqfo)
 
 You're welcome! 👏☺️🎉
